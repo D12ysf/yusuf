@@ -1,3 +1,3 @@
 # HTML-CSS-CV
 CV-yusuf
-Demo: https://yusuf.github.io/
+Demo: https://d12ysf.github.io/yusuf.github.io/
